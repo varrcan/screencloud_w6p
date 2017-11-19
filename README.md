@@ -18,7 +18,8 @@ Preferences > вкладка Online Services > More services > раздел Loca
 1. Скачайте скрипт `upload.sh` https://git.io/vFQII	
 2. Откройте настройки ScreenCloud и в параметрах модуля Shell Script введите через пробел путь к скрипту `upload.sh`, переменную `{s}` и ваш токен:
 `/path_to/upload.sh {s} token`
-3. Готово!
+3. Поставьте галочку в поле "Copy command output to clipboard"
+4. Готово!
 
 
 После создания скриншота выберите для сохранения Shell Script (поле Save to)
