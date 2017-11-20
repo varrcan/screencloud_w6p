@@ -9,7 +9,7 @@ Preferences > вкладка Online Services > More services > раздел Loca
 #### Автоматическая установка:
 1. Откройте консоль и вставьте код
 
-	`wget --no-check-certificate https://raw.githubusercontent.com/Varrcan/screencloud_w6p/master/w6p_install.sh && chmod +x w6p_install.sh && ~/w6p_install.sh`
+	`wget --no-check-certificate https://raw.githubusercontent.com/Varrcan/screencloud_w6p/master/w6p_install.sh && chmod +x w6p_install.sh && w6p_install.sh`
 	
 2. Введите токен из личного кабинета
 3. Готово!
